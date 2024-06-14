@@ -2,7 +2,7 @@ const {PORT} = require("./config/index.js")
 const  express = require("express")
 const path = require('path')
 const app = express()
-const {connection} = require("./model/connect.js")
+// const {connection} = require("./model/connect.js")
 
 app.use('/',express.static(path.join(__dirname+'/public')))
 
