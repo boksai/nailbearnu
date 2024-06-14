@@ -181,7 +181,7 @@ a:focus {
   font-size: 22px;
   text-transform: uppercase;
   font-weight: bold;
-  color: #fa0000;
+  color: #000000;
   position: relative;
   z-index: 3;
 }
@@ -211,7 +211,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #b40505;
+  color: #000000;
 }
 
 .slider_section #carouselExampleIndicators {
