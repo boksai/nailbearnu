@@ -273,10 +273,9 @@ button {
     width: 100%;
     float: left;   
     height: fit-content;
-    background-size: 90%;
-    padding: 0px 0px 0px 0px;
+    background-size: 100%;
+    padding: 10px 0px 25px 0px;
     background-repeat: no-repeat;
-    align-content: center;
 }
 
 .banner_taital {
